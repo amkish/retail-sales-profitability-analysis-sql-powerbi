@@ -91,7 +91,6 @@ The project followed this analytical process:
 ---
 
 ## Repository Structure
-
 ```text
 retail-sales-profitability-analysis-sql-powerbi/
 │
@@ -110,3 +109,31 @@ retail-sales-profitability-analysis-sql-powerbi/
 │   └── retail_analysis_report.md
 │
 └── README.md
+```
+---
+
+## Dashboard Preview
+How to Use This Repository
+Review the SQL analysis in sql/retail_analysis.sql
+Explore the dashboard screenshots in the visuals/ folder
+Open the .pbix file in the dashboard/ folder to interact with the Power BI dashboard
+Refer to the report file for the full written case study
+
+---
+
+## Skills Demonstrated
+- SQL querying and aggregation
+- KPI analysis
+- trend analysis
+- product and customer profitability analysis
+- discount sensitivity analysis
+- regional and state performance analysis
+- concentration risk analysis
+- Power BI dashboard development
+- business insight generation
+
+---
+
+## Author
+Nnaemeka Sinclaire Ndubuisi
+Data Analyst & Data Scientist | SQL | Power BI | Python | Machine learning
